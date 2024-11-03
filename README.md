@@ -1,27 +1,46 @@
-# AngularCrud
+# Welcome to CRUD OPERATIONS UI Angular 18!
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
+Hey there! 👋 I'm Manu Bharadwaj. If you find this project useful or interesting, don't forget to give it a ⭐️!
 
-## Development server
+## About Me
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+I'm Manu Bharadwaj, a passionate Software Engineer.
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- 📦 HTML, CSS, BOOTSTRAP & ANGULAR 18.
 
-## Build
+## Getting Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To get started with this project, follow these simple steps:
 
-## Running unit tests
+1. Clone the repository.
+2. Start changing the code according to your expectations.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## How to Contribute
 
-## Running end-to-end tests
+If you'd like to contribute to this project, follow these steps:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes and commit them.
+4. Push to your fork and open a pull request.
 
-## Further help
+For major changes, please open an issue first to discuss what you would like to change.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Issues and Support
+
+If you encounter any issues or have questions, feel free to open an issue. I'll do my best to help you out.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/manu-bharadwaj-3507a345/)
+- [YouTube](https://www.youtube.com/@code-with-Bharadwaj)
+
+Let's connect and share our thoughts!
+
+---
+
+**If you find this project helpful, please consider giving it a ⭐️!**
+
+Thank you for stopping by! 🌟
